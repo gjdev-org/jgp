@@ -71,11 +71,12 @@ tutte le pagine del sito che:
               </div>
               <div class="menu-wrapper">
                 <ul class="navbar-nav">
-                  {% for menu_page in current_lang_menu_pages %}
                   <li class="nav-item">
-                    <a class="nav-link" href="{{ site.baseurl }}{{menu_page.permalink}}"><span>{{menu_page.title}}</span></a>
+                    <a class="nav-link" href="https://onlygabbyme.substack.com"><span>Blog</span></a>
                   </li>
-                  {% endfor %}
+                  <li class="nav-item">
+                    <a class="nav-link" href="/organizzazioni-e-progetti/"><span>uffici e progetti</span></a>
+                  </li>
                 </ul>
               </div>
             </div>
