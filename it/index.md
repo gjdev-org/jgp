@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Homepage di esempio
-description: Questo è un esempio di homepage con utilizzo del componente "hero"
+title: Welcome in Gabby Studio!
+description: Benvenuti nel mio studio!
 lang: it
 ref: homepage
 permalink: /
